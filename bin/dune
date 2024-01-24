@@ -1,0 +1,4 @@
+(executable
+ (public_name sand_castle)
+ (name main)
+ (libraries sandCastle ocaml-canvas))
